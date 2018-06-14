@@ -1,0 +1,19 @@
+Business School (Classroom)
+
+Walks out of classroom, can turn left or right.  On left is hallway that appears to open up to large area
+On right is another hallway, ends at windows with an intersection to another hallway
+
+D1: decides to turn left
+--> reaches end of hall, large area is just classrooms and fire-escape stairs.
+--> subject decides bathrooms are not in this area from visual search, turns around and heads back toward starting position
+
+Ends up making equivalent of right turn from starting position, heads towards windows
+
+D2: at windows, option to turn left or right.  Subject sees that left turn dead-ends, so turns right
+
+Walks down hallway which opens up toward large staircase.
+
+before reaching large open staircase/area, subject reaches intersection, looks down intersection,
+-->notices water fountains, so decides to turn down that hallway
+(GH Note: there was also a sign that pointed to bathrooms down this hallway, but it was in the opposite direction from subject walking -- he did not see sign).
+--> bathrooms are further down on left

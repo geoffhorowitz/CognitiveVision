@@ -1,0 +1,19 @@
+Business School (Auditorium)
+
+Decision 1:
+Walked out of classroom (because no bathroom in classroom), 
+
+D2:
+only way to turn is left - therefore turn left
+
+D3: Can see doors (& exit signs), but its clear that doors lead directly outside, not to bathroom, so ignores doors
+--> sees common area straight ahead, wants to head to common area to look for signs leading to bathroom
+-->heads toward common area
+
+D4:
+In common area, sees signs in all different directions, starts reading signs
+--> sees one sign that points toward restrooms
+--> follows signs to restrooms
+
+(GH notices water fountains on left - subject ignores them)
+keeps walking down hallway --> sign for mens room on right
